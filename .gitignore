@@ -1,0 +1,17 @@
+*.swo
+*.swp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.envrc
+.idea/*
+.vscode/
+*~
+\#*\#
+.DS_Store
+.AppleDouble
+.LSOverride
